@@ -1,6 +1,5 @@
 {
     "name": "marcelodelgado/filament-announcements",
-    "version": "1.1.0",
     "description": "Filament v5 plugin for institutional announcements on the admin dashboard",
     "keywords": [
         "filament",
